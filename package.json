@@ -1,0 +1,14 @@
+{
+  "name": "sortags",
+  "description": "Semver tag sorter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "neemzy <tom.panier@free.fr>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
